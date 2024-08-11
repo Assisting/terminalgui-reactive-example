@@ -15,6 +15,6 @@ I'm really only attempting to illustrate principles here, there may be substanti
 
 ## Usage
 
-Build, compile, run. The search field offers autocomplete. Later versions will save you from crashing everything by typing something other than a borough of New York City in that field.
+Build, run. The search field offers autocomplete. Later versions will save you from crashing everything by typing something other than a borough of New York City in that field.
 
 ![New York Trees application while running](public/screenshot.png)
