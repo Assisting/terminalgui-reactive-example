@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYorkTrees.DAL", "NewYorkTrees.DAL\NewYorkTrees.DAL.csproj", "{8B9AC187-04BF-47DD-B946-3A8177673022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYorkTrees.TerminalUI", "NewYorkTrees.TerminalUI\NewYorkTrees.TerminalUI.csproj", "{1F1D7F69-183C-4A4E-9869-FF53F252C022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYorkTrees.UserPreferences", "NewYorkTrees.UserPreferences\NewYorkTrees.UserPreferences.csproj", "{314CD6A1-9ED4-4416-AB47-AC4507051876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYorkTrees.ViewModels", "NewYorkTrees.ViewModels\NewYorkTrees.ViewModels.csproj", "{878450D6-9E95-4C6E-BDBF-2676DA757601}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Settings", "Settings", "{6AE8DC3D-620F-494D-9EAE-BDA7B1553677}"
+	ProjectSection(SolutionItems) = preProject
+		appsettings.json = appsettings.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYorkTrees.Test", "NewYorkTrees.Test\NewYorkTrees.Test.csproj", "{E314E792-2C76-47D1-9E3E-0D5510735056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B9AC187-04BF-47DD-B946-3A8177673022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9AC187-04BF-47DD-B946-3A8177673022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9AC187-04BF-47DD-B946-3A8177673022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9AC187-04BF-47DD-B946-3A8177673022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1D7F69-183C-4A4E-9869-FF53F252C022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1D7F69-183C-4A4E-9869-FF53F252C022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1D7F69-183C-4A4E-9869-FF53F252C022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1D7F69-183C-4A4E-9869-FF53F252C022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314CD6A1-9ED4-4416-AB47-AC4507051876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314CD6A1-9ED4-4416-AB47-AC4507051876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314CD6A1-9ED4-4416-AB47-AC4507051876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314CD6A1-9ED4-4416-AB47-AC4507051876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878450D6-9E95-4C6E-BDBF-2676DA757601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878450D6-9E95-4C6E-BDBF-2676DA757601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878450D6-9E95-4C6E-BDBF-2676DA757601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878450D6-9E95-4C6E-BDBF-2676DA757601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E314E792-2C76-47D1-9E3E-0D5510735056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E314E792-2C76-47D1-9E3E-0D5510735056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E314E792-2C76-47D1-9E3E-0D5510735056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E314E792-2C76-47D1-9E3E-0D5510735056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
